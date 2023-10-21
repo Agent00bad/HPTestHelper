@@ -68,6 +68,7 @@ namespace HP.Console
                         System.Console.WriteLine("felaktig inmatning");
                         answering = true;
                     }
+                    else answering = false;
                 } while (answering);
 
                 if (input.First() == ':')
