@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hlXtnGhHOYPb6rshNE0X4qdv4qW0cccqF4cl8EbWVn25+IFe71LrFQVOR3DBUt1wMMmfr627GYGzQWIZpOqBIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel Aldén .NET\\Desktop\\HP program\\HPResultReader\\HP.Console\\HP.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel Aldén .NET\\.nuget\\packages\\freespire.pdf\\8.6.0\\freespire.pdf.8.6.0.nupkg.sha512",
+    "C:\\Users\\Daniel Aldén .NET\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Daniel Aldén .NET\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Daniel Aldén .NET\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Daniel Aldén .NET\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
